@@ -14,6 +14,7 @@ A minimal Node.js + TypeScript project template.
 - `pnpm test.watch` - Run tests in watch mode
 - `pnpm lint` - Check code with Biome
 - `pnpm lint.fix` - Fix linting issues automatically
+- `pnpm typecheck` - Compile check with TypeScript
 
 ## Tech Stack
 

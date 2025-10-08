@@ -32,6 +32,11 @@ pnpm lint            # Check code with Biome
 pnpm lint.fix        # Auto-fix linting issues
 ```
 
+### Typechecking
+```bash
+pnpm typecheck        # Compile check with TypeScript
+```
+
 ## Architecture
 
 ### TypeScript Configuration
