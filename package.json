@@ -14,7 +14,8 @@
 		"lint": "biome check",
 		"lint.fix": "biome check --write",
 		"test": "node --import tsx --test src/**/*.test.{ts,tsx}",
-		"test.watch": "node --import tsx --test --watch src/**/*.test.{ts,tsx}"
+		"test.watch": "node --import tsx --test --watch src/**/*.test.{ts,tsx}",
+		"typecheck": "tsc"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "2.2.5",
