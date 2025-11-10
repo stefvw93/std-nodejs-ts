@@ -5,7 +5,7 @@ A minimal Node.js + TypeScript project template.
 ## Requirements
 
 - Node.js ≥ 24.7.0
-- npm ≥ 10.15.0
+- pnpm ≥ 10.15.0
 
 ## Scripts
 
